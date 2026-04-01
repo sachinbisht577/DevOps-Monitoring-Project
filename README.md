@@ -1,4 +1,4 @@
-## 📦 Project Structure
+## 📦 Project Structure.
 
 📦 DevOps Monitoring Project
 ├── 🚀 app/                      # Node.js Application
