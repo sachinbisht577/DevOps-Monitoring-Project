@@ -1,5 +1,3 @@
-# DevOps-Monitoring-Project
-
 ## 📦 Project Structure
 
 📦 DevOps Monitoring Project
